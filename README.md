@@ -44,8 +44,8 @@ Founder – CyberHealth Solutions
 
 ## 🌐 Live Demo
 
-- [Live DataBreach Planner](y)
-- [GitHub Repo](y)
+- [Live DataBreach Planner](http://breachplanner.cyberhealth-solutions.com)
+- [GitHub Repo](https://github.com/meesummeer/breach-response-planner)
 
 ---
 
