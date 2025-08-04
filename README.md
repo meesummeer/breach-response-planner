@@ -44,8 +44,8 @@ Founder – CyberHealth Solutions
 
 ## 🌐 Live Demo
 
-- [Live DataBreach Planner](your-github-pages-link-here)
-- [GitHub Repo](your-repo-link-here)
+- [Live DataBreach Planner](y)
+- [GitHub Repo](y)
 
 ---
 
